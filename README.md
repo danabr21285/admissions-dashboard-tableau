@@ -43,7 +43,7 @@ The dashboard was designed to provide **real-time insights** into applicant acad
 ## 📎 Files in This Repository
 
 - `README.md` – Project overview (this file)
-- `tableau_mockup.png` – *(optional)* Generic or simulated screenshot
+- `tableau_mockup.png` – deidentified version included
 
 
 ---
