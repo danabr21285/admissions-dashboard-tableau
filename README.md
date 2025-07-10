@@ -50,7 +50,7 @@ The dashboard was designed to provide **real-time insights** into applicant acad
 
 ## 🚫 Data Privacy Note
 
-This dashboard was created for internal use at a medical institution and includes FERPA-protected applicant information. As such, the visualizations and data are not publicly available in this repository.
+This dashboard was created for internal use at a medical institution and includes FERPA-protected applicant information. As such, the visualizations and data are removed and/or blurred in this repository.
 
 ---
 
